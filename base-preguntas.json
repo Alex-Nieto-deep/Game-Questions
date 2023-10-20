@@ -1,0 +1,82 @@
+[
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Qué es un balance general?",
+      "respuesta": "Un estado financiero que muestra la situación patrimonial de una empresa en un momento dado.",
+      "incorrecta1": "Un registro de las ventas diarias de una empresa.",
+      "incorrecta2": "Un informe de auditoría externa.",
+      "incorrecta3": "Un cálculo del punto de equilibrio."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Qué impuesto se aplica a las ganancias de una empresa?",
+      "respuesta": "Impuesto sobre la renta (ISR).",
+      "incorrecta1": "Impuesto al valor agregado (IVA).",
+      "incorrecta2": "Impuesto a las ventas.",
+      "incorrecta3": "Impuesto a la propiedad."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Cuál es el propósito de un estado de flujo de efectivo?",
+      "respuesta": "Mostrar cómo una empresa genera y utiliza efectivo durante un período.",
+      "incorrecta1": "Registrar las transacciones de compra y venta de acciones.",
+      "incorrecta2": "Calcular la depreciación de activos fijos.",
+      "incorrecta3": "Evaluar el rendimiento de los empleados."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Cuál es la fórmula básica del costo de bienes vendidos (COGS)?",
+      "respuesta": "Inventario inicial + Compras netas - Inventario final.",
+      "incorrecta1": "Ventas - Gastos operativos.",
+      "incorrecta2": "Ingresos totales - Gastos totales.",
+      "incorrecta3": "Ingresos por ventas - Costos de publicidad."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Qué es la amortización?",
+      "respuesta": "La distribución sistemática del costo de un activo a lo largo de su vida útil.",
+      "incorrecta1": "El proceso de cierre de libros contables al final del año fiscal.",
+      "incorrecta2": "El cálculo de los intereses acumulados en una inversión.",
+      "incorrecta3": "El valor total de las ventas de una empresa."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Cuál es la diferencia entre un pasivo a corto plazo y un pasivo a largo plazo?",
+      "respuesta": "La duración de tiempo en que deben ser pagados: corto plazo en un año o menos, largo plazo en más de un año.",
+      "incorrecta1": "La tasa de interés asociada a cada uno.",
+      "incorrecta2": "La clasificación en el balance general, sin diferencias significativas.",
+      "incorrecta3": "Los pasivos a largo plazo son siempre más grandes que los pasivos a corto plazo."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Cuál es el propósito de un estado de resultados?",
+      "respuesta": "Mostrar las ganancias y pérdidas de una empresa durante un período específico.",
+      "incorrecta1": "Registrar las inversiones de la empresa.",
+      "incorrecta2": "Listar los activos y pasivos de la empresa en un momento dado.",
+      "incorrecta3": "Calcular el flujo de efectivo neto de una empresa."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Qué es el principio de reconocimiento de ingresos?",
+      "respuesta": "Reconocer los ingresos cuando se ganan y son realizables, sin importar cuándo se reciban los pagos.",
+      "incorrecta1": "Reconocer los ingresos solo cuando se recibe el efectivo.",
+      "incorrecta2": "Reconocer los ingresos solo al final del año fiscal.",
+      "incorrecta3": "Reconocer los ingresos solo cuando se envía una factura."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Qué es un estado de resultados pro forma?",
+      "respuesta": "Un informe financiero proyectado que muestra los posibles resultados financieros en el futuro.",
+      "incorrecta1": "Un estado de resultados retrospectivo.",
+      "incorrecta2": "Un informe de auditoría externa.",
+      "incorrecta3": "Un registro de las transacciones de la empresa en el pasado."
+  },
+  {
+      "categoria": "Contabilidad",
+      "pregunta": "¿Qué es la depreciación acumulada?",
+      "respuesta": "La suma de la depreciación de un activo a lo largo de su vida útil hasta la fecha.",
+      "incorrecta1": "El costo original de un activo fijo.",
+      "incorrecta2": "El valor justo de mercado de un activo.",
+      "incorrecta3": "El valor en libros de un activo en el momento de su compra."
+  }
+]
